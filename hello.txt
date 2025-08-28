@@ -1,2 +1,4 @@
 this is the 7th commit 
 this is my feature branc02 content
+
+new commit for feature branch 02
