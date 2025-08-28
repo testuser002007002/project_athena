@@ -2,3 +2,9 @@ this is the 7th commit
 10th commit on branch01
  <h1> featurebranch-01 </h1>
   <h1> featurebranch-01 </h1>
+
+  ============= MAIN BRANCH ==================
+
+branch = main-feat-01
+As  git merge commend is used to merge repo locally 
+pull request = when you try to merge somthing on github directly you have to raise "PR = pull request "
